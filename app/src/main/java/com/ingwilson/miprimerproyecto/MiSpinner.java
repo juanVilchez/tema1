@@ -1,7 +1,7 @@
 package com.ingwilson.miprimerproyecto;
 
-import androidx.appcompat.app.AppCompatActivity;
 
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MiSpinner extends AppCompatActivity {
